@@ -1,1 +1,1 @@
-# nonlinier-kinetic-data-modeling
+# nonlinear-kinetic-data-modeling
